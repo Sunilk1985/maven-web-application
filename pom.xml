@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>sbibank Releases Nexus Repository</name>
-	      <url>http:3.109.60.206:8081/repository/sbibank-release/</url>
+	      <name>axisbank Releases Nexus Repository</name>
+	      <url>http://52.66.126.112:8081/repository/axisbank-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>sbibank Snapshot Nexus Repository </name>
-	      <url>http://3.109.60.206:8081/repository/sbibank-snapshot/</url>
+	      <name>axisbank Snapshot Nexus Repository </name>
+	      <url>http://52.66.126.112:8081/repository/axisbank-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
